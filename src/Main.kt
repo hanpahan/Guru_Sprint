@@ -3,5 +3,9 @@ fun main() {
     val Text = "Hello World"
     val Bools = Boolean
 
-    println("Сделал")
+    println("Приветствую Хаути")
+    println("Здравствуйте НУргали Асланович")
+
+
+
 }
