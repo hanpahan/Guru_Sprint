@@ -1,3 +1,5 @@
+package lesson1
+
 fun main() {
     var applePrice = 55.55
     var applesAmount = 10
